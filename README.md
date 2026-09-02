@@ -4,8 +4,6 @@ A production-ready FastAPI backend demonstrating **Agentic RAG** - combining Ret
 
 > **🎬 This is an extension of [yt-rag](https://github.com/ShenSeanChen/yt-rag)** - If you're new here, check out the original RAG tutorial first!
 
-📹 **YouTube Tutorial**: [YouTube Link](https://www.youtube.com/watch?v=w-1lnCmqf_E&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=34)
-
 ☕️ **Support**: [Buy me a coffee](https://buy.stripe.com/5kA176bA895ggog4gh)
 
 🤖 **Discord**: [Join our community](https://discord.com/invite/TKKPzZheua)
